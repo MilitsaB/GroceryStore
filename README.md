@@ -1,5 +1,5 @@
 # Online Grocery Store
-FreshFamily Market is a grocery store website project. This project was completed during my SOEN287 course project with my team of 3.
+FreshFamily Market is an online grocery store. This project was completed during my SOEN287 course project with my team of 3.
 
 ## Authors
 Militsa Bogdeva, Diana Afanasyev, Antoine Dufour-Blain
