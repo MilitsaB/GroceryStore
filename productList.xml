@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+<item>
+<category>fruitsandvegetables</category>
+<productname>Strawberries</productname>
+<productnumber>544-380-66</productnumber>
+<inventory>10</inventory>
+<description>Locally produced fresh strawberries are sweet and nutritious sold in 400g containers</description>
+<ingredients>Strawberries</ingredients>
+<storage>Refrigerate until consumption or up to one week</storage>
+<image>Strawberries.png</image>
+</item>
+<item>
+<category>fruitsandvegetables</category>
+<productname>Avocado</productname>
+<productnumber>544-382-66</productnumber>
+<inventory>12</inventory>
+<description>Fresh large avocadoes from Maxico best in smoothies, salads, or on toast</description>
+<ingredients>Avocado</ingredients>
+<storage>Refrigerate until consumption or up to one week</storage>
+<image>Avocado.png</image>
+</item>
+<item>
+<category>fruitsandvegetables</category>
+<productname>California Eggplant</productname>
+<productnumber>544-381-66</productnumber>
+<inventory>5</inventory>
+<description>Fresh California grown eggplants that vary in size and are sold individually</description>
+<ingredients>Eggplant</ingredients>
+<storage>Refrigerate until consumption or up to one week</storage>
+<image>Eggplant.png</image>
+</item>
+<item>
+<category>fruitsandvegetables</category>
+<productname>Zucchini</productname>
+<productnumber>544-279-65</productnumber>
+<inventory>5</inventory>
+<description>The zucchini are locally grown, fresh, and healthy. Great in any dish.</description>
+<ingredients>Zucchini</ingredients>
+<storage>Keep refrigerated</storage>
+<image>Zucchini.png</image>
+</item>
+<item>
+<category>meat</category>
+<productname>Chicken Thighs</productname>
+<productnumber>684-324-12</productnumber>
+<inventory>10</inventory>
+<description>Canadian farm raised, no added hormones</description>
+<ingredients>5 chicken thighs</ingredients>
+<storage>Refrigerate for no more than two days</storage>
+<image>chicken.png</image>
+</item>
+<item>
+<category>meat</category>
+<productname>Lean Ground Beef</productname>
+<productnumber>684-564-61</productnumber>
+<inventory>12</inventory>
+<description>Minally processed beef</description>
+<ingredients>93% lean, 7% fat</ingredients>
+<storage>Keep refrigerated</storage>
+<image>beef.png</image>
+</item>
+<item>
+<category>meat</category>
+<productname>Italian Sausage</productname>
+<productnumber>684-723-32</productnumber>
+<inventory>8</inventory>
+<description>4 mild Italian Johnsville Sausages</description>
+<ingredients>Pork, water, corn syrup and less than 2% of the following: pork broth with natural flavorings, salt, dextrose, spices, natural flavor, extractives of paprika, BHA, propyl gallate, citric acid.</ingredients>
+<storage>Prepare within 3 days of purchase or freeze for up to 30 days.</storage>
+<image>sausage.jpeg</image>
+</item>
+<item>
+<category>meat</category>
+<productname>Sliced Bacon</productname>
+<productnumber>684-723-32</productnumber>
+<inventory>15</inventory>
+<description>Great Value thick sliced naturally smoked bacons</description>
+<ingredients>Pork, water, salt, sugar, sodium phosphate, sodium erythorbate, sodium nitrite, smoke.</ingredients>
+<storage>Prepare within 3 days of purchase or freeze for up to 30 days.</storage>
+<image>bacon.jpeg</image>
+</item>
+<item>
+<category>dairy</category>
+<productname>2% Milk</productname>
+<productnumber>544-389-65</productnumber>
+<inventory>15</inventory>
+<description>Quebon 2% M.F. Partially Skimmed Milk is a locally produced, vitamin D3 fortified milk drink.</description>
+<ingredients>Milk, Vitamin D3</ingredients>
+<storage></storage>
+<image>QuebonMilk.png</image>
+</item>
+<item>
+<category>dairy</category>
+<productname>10% Cream</productname>
+<productnumber>544-389-66</productnumber>
+<inventory>7</inventory>
+<description>Quebon 10% M.F. Coffee Cream is a locally produced dairy product with a smooth texture that enhances coffee or used for cooking</description>
+<ingredients>Milk, cream, vitamin D3, mono- and siglycerides, disodium phosphare, sodium citrate, carrageenan</ingredients>
+<storage>Refrigerate after opening. Refer to Best Before date on package</storage>
+<image>Creme.png</image>
+</item>
+<item>
+<category>dairy</category>
+<productname>Butter</productname>
+<productnumber>544-379-65</productnumber>
+<inventory>7</inventory>
+<description>Lactantia salted country churned butter is a locally produced, rich and smooth butter, great on a toast or for cooking.</description>
+<ingredients>Cream, Salt, Milk</ingredients>
+<storage>Keep refrigerated</storage>
+<image>SaltedButter.png</image>
+</item>
+<item>
+<category>dairy</category>
+<productname>Shredded Cheese</productname>
+<productnumber>544-369-65</productnumber>
+<inventory>7</inventory>
+<description>Kraft Shredded Mild Cheddar Cheese is locally produced creamy cheese perfect for cooking</description>
+<ingredients>Cheddar cheese, potato starch, cellulose powder, calcium sulfate, natamycin. Contains: milk</ingredients>
+<storage>Keep refrigirated</storage>
+<image>KraftCheddar.png</image>
+</item>
+<item>
+<category>breadandpantry</category>
+<productname>Baguette</productname>
+<productnumber>799-455-72</productnumber>
+<inventory>6</inventory>
+<description>Daily fresh French style baguette</description>
+<ingredients>Flour, Active Dry Yeast, Vegetable Oil, Conservation Agents</ingredients>
+<storage>Store in a cool dry place, eat within 3 days or freeze</storage>
+<image>baguette.png</image>
+</item>
+<item>
+<category>breadandpantry</category>
+<productname>Croissants</productname>
+<productnumber>799-343-11</productnumber>
+<inventory>4</inventory>
+<description>Croissants fresh of the day baked on location</description>
+<ingredients>Flour, Butter, Egg, Active Dry Yeast, Vegetable Oil, Conservation Agents</ingredients>
+<storage>Store in a cool dry place, eat within 3 days or freeze</storage>
+<image>croissant.png</image>
+</item>
+<item>
+<category>breadandpantry</category>
+<productname>Chocolate Chip Cookies</productname>
+<productnumber>799-247-27</productnumber>
+<inventory>8</inventory>
+<description>Homestyle decadent chocolate chip cookies</description>
+<ingredients>Margarine, Chocolate Chips, Brown Sugar, White Sugar, Eggs, Vanilla, Flour, Baking Soda, Salt</ingredients>
+<storage>Store in a cool dry place, eat within 5 days</storage>
+<image>cookie.png</image>
+</item>
+<item>
+<category>beverages</category>
+<productname>Eska Water</productname>
+<productnumber>233-673-45</productnumber>
+<inventory>5</inventory>
+<description>20 x 500ml</description>
+<ingredients>Natural Spring Water</ingredients>
+<storage>Once opened, use within 3 days for better quality.</storage>
+<image>water.jpeg</image>
+</item>
+<item>
+<category>beverages</category>
+<productname>Orange Juice</productname>
+<productnumber>233-568-15</productnumber>
+<inventory>8</inventory>
+<description>Tropicana 100% pure and natural orange juice - no pulp</description>
+<ingredients>100% pure squeezed orange juice</ingredients>
+<storage>Once opened, keep refrigerated.</storage>
+<image>juice.jpg</image>
+</item>
+<item>
+<category>beverages</category>
+<productname>Coca-Cola</productname>
+<productnumber>233-348-92</productnumber>
+<inventory>17</inventory>
+<description>Coca-Cola classic soft drink</description>
+<ingredients>Carbonated water, sugar/glucose-fructose, caramel colour, phosphoric acid, natural flavour, caffeine</ingredients>
+<storage>Once opened, keep refrigerated. Serve ice cold for maximum refreshment.</storage>
+<image>cola.jpg</image>
+</item>
+<item>
+<category>beverages</category>
+<productname>Coors Light Beer</productname>
+<productnumber>233-545-78</productnumber>
+<inventory>20</inventory>
+<description>4% Alcohol Beer</description>
+<ingredients>Water, Barley Malt, Corn Syrup(Dextrose), Yeast, Hop Extract</ingredients>
+<storage>Keep refrigerated.</storage>
+<image>beer.jpeg</image>
+</item>
+<item>
+<category>organic</category>
+<productname>Edamame</productname>
+<productnumber>086-223-55</productnumber>
+<inventory>6</inventory>
+<description>Imported organic edamame. Can be eaten as snack.</description>
+<ingredients>Soybeans</ingredients>
+<storage>Store in fridge for a week or freeze</storage>
+<image>edamame.png</image>
+</item>
+<item>
+<category>organic</category>
+<productname>Bitter Melon</productname>
+<productnumber>086-223-55</productnumber>
+<inventory>3</inventory>
+<description>Organically grown bitter melon, free of pesticides</description>
+<ingredients>Bitter Melon</ingredients>
+<storage>Store in the fridge, eat within a week</storage>
+<image>kugua.png</image>
+</item>
+<item>
+<category>organic</category>
+<productname>Kale</productname>
+<productnumber>086-223-55</productnumber>
+<inventory>6</inventory>
+<description>Locally grown organic kale, free of pesticides</description>
+<ingredients>Kale</ingredients>
+<storage>Store in fridge for up to 5 days</storage>
+<image>kale.png</image>
+</item>
+</products>

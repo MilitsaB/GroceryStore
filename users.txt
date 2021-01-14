@@ -1,0 +1,5 @@
+admin@admin.com;qqqq1111;Admin;Adminovitch;Adminov Street;;Adminburg;Yukon;A1D1M1;123-456-7890;admin
+Addadmin8@test.com;qqqqq111;Diana;Afanasyev;318 Rue Olivier-Chauveau;;Laval;Quebec;H7K3J2;514-570-4023;admin
+Addadmin9@test.com;qqqqq111;Diana;Afanasyev;3 Rue Olivier-Chauveau;;Laval;Quebec;H7K3J2;514-570-4023;user
+Addadmin0@test.com;qqqqq111;Diana;Afanasyev;318 Rue Olivier-Chauveau;;Laval;Quebec;H7K3J2;514-570-4023;admin
+Test5005@admin.com;qqqq2222;here again;Adminovitch;Adminov Street;;montreal;Quebec;A1D1M1;123-456-7890;admin

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Croissants</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/CSS" href="StyleCSS.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+    <link rel="icon" href="Images/FruitCartLogo.png">
+</head>
+
+<body onload="document.getElementById('croissantQuantity').value = getSavedValue('croissantQuantity');">
+    <nav class="logo-bar navbar navbar-expand-lg navbar-light justify-content-between">
+        <a class="navbar-brand" href="index.html">
+            <img class="main-logo" src="Images/FruitCartLogo.png">
+            <span class="navbar-icon-label">FRESHFAMILY MARKET</span>
+        </a>
+        <div class="navbar-right">
+            <a href="Cart.html">
+                <img class="icons" src="Images/AddToCart.png">
+                <span class="navbar-icon-label mr-4">My Cart</span>
+            </a>
+            <a href="SignIn.php">
+                <img class="icons" src="Images/SignInIconOnly.png">
+                <span class="navbar-icon-label">Sign In</span>
+            </a>
+        </div>
+    </nav>
+
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-full" style="background-color:rgb(104, 170, 5)">
+        <div class="mx-auto d-sm-flex d-block flex-sm-nowrap">
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample11"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse text-center" id="navbarsExample11">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="btn btn-success mr-3" href="index.html" role="button">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-success mr-3" href="FruitAndVegetables.html" role="button">Fruit and
+                            Vegetables</a>
+                    </li>
+                    <a class="btn btn-success mr-3" href="Meat.html" role="button">Meat</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-success mr-3" href="Dairy.html" role="button">Dairy</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-success mr-3" href="Pantry.html" role="button">Bread and Pantry</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-success mr-3" href="Drinks.html" role="button">Beverages</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-success mr-3" href="Organic.html" role="button">Organic</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="media product" style="margin-top: 0; margin-left: 5%">
+        <img src="Images/croissant.png" class="media-list-image mr-3" alt="Croissants" width="50%">
+        <div class="media-body">
+            <div class="textblack" style="color: black">
+                <h5 class="mt-0">Croissants, box of 6</h5>
+                <p>Weight: 280g</p>
+                <p>Price: $3.99</p>
+                <p>
+                    <button class="btn green-button" type="button" data-toggle="collapse" data-target="#collapseExample"
+                        aria-expanded="false" aria-controls="collapseExample">
+                        More Description
+                    </button>
+                </p>
+                <div class="collapse mr-5" id="collapseExample">
+                    <div class="card card-body">
+                        <h6>Product Number</h6>
+                        <p>799-343-11</p>
+                        <h6>Description</h6>
+                        <p>Croissants fresh of the day baked on location</p>
+                        <h6>Ingredients</h6>
+                        <p>Flour, Butter, Egg, Active Dry Yeast, Vegetable Oil, Conservation Agents</p>
+                        <h6>Storage</h6>
+                        <p>Store in a cool dry place, eat within 3 days or freeze</p>
+                    </div>
+                </div>
+            </div>
+            <form class="add-to-cart" action="Cart.php" method="post">
+                <input class="product-quantity ml-2 mr-2" type="number" name="quantity" id="croissantQuantity" value="croissantQuantity" onchange="saveValue(this)"
+                    placeholder="1" />
+                    <input type="hidden" name="productid" value="croissants">
+                    <input class="add-to-cart-submit" type="image" name="ToCart" src="Images/AddToCart.png"
+                    alt="Submit Form" />
+            </form>
+        </div>
+    </div>
+    <div class="whitespace2"></div>
+
+    <footer>
+        <a href="index.html"><img src="Images/FruitCartLogo.png" class="logo mr-2" alt="FRESHFAMILY"></a>
+        <span class="navbar-icon-label name">FRESHFAMILY MARKET</span>
+    </footer>
+    <script type = "text/javascript" src = "JavaScript/AntoineProducts.js"></script>
+</body>
+
+</html>
