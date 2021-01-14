@@ -11,8 +11,8 @@ Front End:
 <img src="./marketImages/index.png">
 <img src="./marketImages/aisle.png">
 <img src="./marketImages/product.png">
-<img src="./marketImages/cart1.png">
-<img src="./marketImages/cart.png">
+<img src="./marketImages/cart11.png">
+
 
 Back End:
 <img src="./marketImages/user.png">
@@ -20,7 +20,7 @@ Back End:
 <img src="./marketImages/order.png">
 
 <img src="./marketImages/newUser.png">
-<img src="./marketImages/edit order.png">
+<img src="./marketImages/editOrder.png">
 
 
 # Features
